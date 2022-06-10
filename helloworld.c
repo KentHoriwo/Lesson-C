@@ -9,7 +9,6 @@ void main(){
     x = 1;
     y = 0.5;
     printf("x = %d\n", x);
-    printf("y = %d\n", y);
     printf("y = %f\n", y);
     printf("y = %f\n", x + y);
 }
