@@ -3,7 +3,6 @@
 void main(){
     printf("hello,world\n");
     printf("\"hello,world\"\n");
-    
     int x;
     double y;
     x = 1;
